@@ -7,3 +7,5 @@ ash
 oluchi
 frank
 leo
+date
+pwd
