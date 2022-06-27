@@ -11,4 +11,7 @@ date
 pwd
 garo
 gdkmkls
-
+ira
+ac,sdc
+sdc,sdl;csldc;lsc
+s'csdalcascas
