@@ -9,3 +9,8 @@ frank
 leo
 date
 pwd
+kaira
+ac,sdc
+sdc,sdl;csldc;lsc
+asc,as'csdalcascas
+  xcasclx
